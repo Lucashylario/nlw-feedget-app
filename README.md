@@ -9,3 +9,4 @@
 1. ReactJS and TypeScript - Instalação com "vite"
 2. Tailwindcss - `(https://tailwindcss.com/docs/installation/using-postcss)`
 3. Phosphor Icons - `npm install phosphor-react` - `(https://phosphoricons.com/)`
+4. Headless UI (Biblioteca de acessibilidade) - `npm install @headlessui/react` - `https://headlessui.dev/`
