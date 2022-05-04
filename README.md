@@ -7,3 +7,4 @@
 ## Frameworks & Libs utilizadas:
 
 1. ReactJS and TypeScript - Instalação com "vite"
+2. Tailwindcss
